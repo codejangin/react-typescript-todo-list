@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+
+# build
+build
+
+# dependency
+node_modules
+
+# test coverage
+coverage
+
+# VS Code
+.vscode
+.history
+.vs
+
+# misc
+.idea
